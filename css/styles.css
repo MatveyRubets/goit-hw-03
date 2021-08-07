@@ -228,7 +228,7 @@ body {
 }
 
 .heading-studio-list-item-name {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
   color: var(--title-text-color);
   font-weight: 700;
   font-size: 14px;
@@ -241,6 +241,8 @@ body {
   font-size: 14px;
   line-height: 1.71;
   color: var(--main-text-color);
+  font-weight: normal;
+  letter-spacing: 0.03em;
 }
 
 .heading-studio-2 {
